@@ -93,6 +93,7 @@ p {
     header {
         background-image: url(../download.png);
         background: cover;
+        background: no-repeat;
     }
 
    .about {
