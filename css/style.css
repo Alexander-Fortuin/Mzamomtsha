@@ -95,4 +95,8 @@ p {
         background-image: url(.. /images/emblem.png);
         
     }
+
+   .about {
+     display: block;
+    } 
 }
