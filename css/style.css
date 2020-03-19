@@ -92,7 +92,7 @@ p {
     }
     header {
         background-image: url(../download.png);
-        
+        background: cover;
     }
 
    .about {
